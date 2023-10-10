@@ -1,0 +1,7 @@
+steps 1 
+
+installl 
+typescript, graphql, appolo-server
+create tsconfig.json
+create schema.ts and index.ts
+
